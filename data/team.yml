@@ -3,7 +3,7 @@ heading : Our
 headingSpan : Team
 teamMember :
   - image : images/team/team-1.jpg
-    name : Abul Mal Muhit
+    name : Eugene Joseph
     designation : CEO/Founder
     description : Lorem ipsum dolor sit amet consectetur adipisicing elit. Aspernatur necessitatibus ullam, culpa odio.
     socialIcon :
@@ -17,8 +17,8 @@ teamMember :
         url : "#"
       
   - image : images/team/team-2.jpg
-    name : Frank Miller
-    designation : Manager
+    name : Dimitri Miles
+    designation : CTO/Co-Founder
     description : Lorem ipsum dolor sit amet consectetur adipisicing elit. Aspernatur necessitatibus ullam, culpa odio.
     socialIcon :
       - icon : tf-ion-social-facebook
@@ -31,9 +31,9 @@ teamMember :
         url : "#"
       
   - image : images/team/team-3.jpg
-    name : Michael Jonson
-    designation : Web Developer
-    description : Lorem ipsum dolor sit amet consectetur adipisicing elit. Aspernatur necessitatibus ullam, culpa odio.
+    name : Tamara Korcak
+    designation : CSO
+    description : Tamara is a seasoned digital transformation professional with over 10 years of experience in strategy design and implementation from data driven environments, developing and implementing cross-functional softwares as a service solutions for organisations, both on buyer and seller side. In her current role, Tamara is enabling enterprise customers through digitally transformative solutions find ways to grow and scale. Her vertical experience covers digitising business in banking, insurance, finance, eCommerce, gaming, pharma, manufacturing and telecommunications. Tamara regularly participates as a judge/mentor to startup communities in London/Boston, via Masschallenge initiative.
     socialIcon :
       - icon : tf-ion-social-facebook
         url : "#"
@@ -44,16 +44,16 @@ teamMember :
       - icon : tf-ion-social-dribbble-outline
         url : "#"
       
-  - image : images/team/team-4.jpg
-    name : Mo. Kha. Alamgir
-    designation : SEO Specialist
-    description : Lorem ipsum dolor sit amet consectetur adipisicing elit. Aspernatur necessitatibus ullam, culpa odio.
-    socialIcon :
-      - icon : tf-ion-social-facebook
-        url : "#"
-      - icon : tf-ion-social-twitter
-        url : "#"
-      - icon : tf-ion-social-linkedin
-        url : "#"
-      - icon : tf-ion-social-dribbble-outline
-        url : "#"
+        #   - image : images/team/team-4.jpg
+        #     name : Mo. Kha. Alamgir
+        #     designation : SEO Specialist
+        #     description : Lorem ipsum dolor sit amet consectetur adipisicing elit. Aspernatur necessitatibus ullam, culpa odio.
+        #     socialIcon :
+        #       - icon : tf-ion-social-facebook
+        #         url : "#"
+        #       - icon : tf-ion-social-twitter
+        #         url : "#"
+        #       - icon : tf-ion-social-linkedin
+        #         url : "#"
+        #       - icon : tf-ion-social-dribbble-outline
+        #         url : "#"
